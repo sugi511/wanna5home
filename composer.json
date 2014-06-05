@@ -9,7 +9,8 @@
     "require": {
         "pear-cakephp/cakephp": "2.4.7",
         "cakephp/debug_kit": "2.2.*",
-        "cakedc/migrations": "*"
+        "cakedc/migrations": "*",
+        // "elstc/twitter_kit" : "2.0"
     },
     "config": {
         "vendor-dir": "Vendor/"
